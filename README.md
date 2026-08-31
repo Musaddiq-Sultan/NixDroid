@@ -8,7 +8,8 @@ An x86_64 AOSP emulator for Linux (targeting Debian-based distributions). The em
 
 You can download the public beta release files from the link below:
 
-* **Download Link:** [NixDroid MediaFire Repository](https://www.mediafire.com/folder/d83yfqesl0h88/NixDroid)
+* **Download Link #01:** [MediaFire](https://www.mediafire.com/folder/d83yfqesl0h88/NixDroid)
+* **Download Link #02:** [Google Drive](https://drive.google.com/file/d/1Uu7HpUO1pf430f9BVNyUFROBZUE1R9-C)
 
 ## Feedback & Testing
 
