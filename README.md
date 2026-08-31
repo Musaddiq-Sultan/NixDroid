@@ -10,4 +10,4 @@ You can download the public beta release files from the link below:
 
 ## Feedback & Testing
 
-The first version is close to completion, and I am actively looking for testers. If you are willing to test it out and report any issues, kindly DM me.
+The first version is close to completion, and I am actively looking for testers. If you encounter any bugs or want to share feedback, please open an issue.
