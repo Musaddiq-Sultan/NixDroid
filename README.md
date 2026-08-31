@@ -1,4 +1,6 @@
+<img width="150" height="150" alt="NixDroid" src="https://github.com/user-attachments/assets/cb78350d-d83a-4cc0-a852-49a91277e115" /><br>
 # NixDroid Emulator (Beta)
+
 
 An x86_64 AOSP emulator for Linux (targeting Debian-based distributions). The emulator uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely. It also comes with root access pre-enabled via Magisk.
 
