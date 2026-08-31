@@ -14,6 +14,9 @@ You can download the public beta release files from the link below:
 * Download the zip file from the given links
 * Extract the file
 * Run the installer (bash install.sh) without root privileges
+* Select install/uninstall and Wait for the process to finish
+* Search for NixDroid in your installed apps
+* Launch NixDroid and wait for a while
 
 ## Feedback & Testing
 
